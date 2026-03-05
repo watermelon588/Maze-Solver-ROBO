@@ -1,9 +1,3 @@
-Below is a **complete, professional `README.md`** you can directly paste into your GitHub repository.
-It explains **the robot, hardware, algorithms, repository structure, and usage** so anyone can understand the project.
-
-You can copy it as-is or modify it later.
-
----
 
 # Autonomous Line Follower & Maze Solver Robot
 
